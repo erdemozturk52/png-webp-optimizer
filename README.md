@@ -26,7 +26,7 @@ TinyPNG mantığıyla çalışan **8-bit Renk Kuantizasyonu (Color Quantization)
 Projeyi bilgisayarınıza klonlayın ve proje dizinine geçin:
 
 ```bash
-git clone https://github.com/KULLANICI_ADIN/mac-png-webp-optimizer.git
+git clone https://github.com/erdemozturk52/mac-png-webp-optimizer.git
 cd mac-png-webp-optimizer
 ```
 
